@@ -10,7 +10,7 @@ contract Veterinaria257264 {
         string raza;
         bool estado;
     }
-
+//
     Elemento[] public elementos;
 
     uint256 public posicion;
